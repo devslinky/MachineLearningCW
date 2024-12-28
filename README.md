@@ -6,3 +6,7 @@ Project 1: Classifying whether a bill is fake or not based on its dimensions usi
 
 Project 2: Performing PCA and SVD on flight delay and wine quality data for data reconstruction, feature importance and selection
 
+Project 3: Fitting Linear Regression to aviation data; optimizing using Gradient Descent. Performing polynomial feature expansion and performing L1 and L2 regularization
+
+Projet 4: 
+
