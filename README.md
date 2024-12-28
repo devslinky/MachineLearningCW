@@ -8,5 +8,5 @@ Project 2: Performing PCA and SVD on flight delay and wine quality data for data
 
 Project 3: Fitting Linear Regression to aviation data; optimizing using Gradient Descent. Performing polynomial feature expansion and performing L1 and L2 regularization
 
-Projet 4: 
+Projet 4: Performing sentiment analyis/classification by tuning a pre-trained BERT model. Includes NLP preprocessing tasks such as subword tokenization. 
 
